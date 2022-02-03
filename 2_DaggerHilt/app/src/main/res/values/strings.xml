@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DaggerExample</string>
+    <string name="string_inject">THIS IS A STRING WE WILL INJECT FROM MAIN</string>
+</resources>
